@@ -1,4 +1,13 @@
-# FG_SLAM
+<div align="left">
+<h1 align="left">
+<br>FG_SLAM</h1>
+<h3> Developed with the software and tools below.</h3>
+<p align="left">
+</p>
+<img src="https://img.shields.io/github/license/alstondu/GNSS-DR_Loco?style=flat-square&color=5D6D7E" alt="GitHub license" />
+<img src="https://img.shields.io/github/last-commit/alstondu/GNSS-DR_Loco?style=flat-square&color=5D6D7E" alt="git-last-commit" />
+<img src="https://img.shields.io/github/languages/top/alstondu/GNSS-DR_Loco?style=flat-square&color=5D6D7E" alt="GitHub top language" />
+</div>
 
 ---
 
